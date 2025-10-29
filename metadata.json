@@ -1,0 +1,5 @@
+{
+  "name": "Quran Anki",
+  "description": "An interactive flashcard application to help you memorize the Quran with Arabic text, English translations, and progress tracking. Uses a spaced repetition system to optimize learning.",
+  "requestFramePermissions": []
+}
